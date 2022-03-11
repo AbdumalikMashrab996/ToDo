@@ -207,21 +207,18 @@ body {
     }
 
     .modal {
-        display: flex;
-        align-items: center;
-        height: 10vh;
         position: static;
         margin-top: -10px;
         margin-bottom: 20px;
     }
 
     .modal-cap {
+        display: inline;
         position: static;
     }
 
     .cancel {
         position: static;
-        margin-left: 10px;
         font-size: 0.9rem;
     }
 
